@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Destinn
 - 👀 I’m interested in Game Develeping
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python
 
 <!---
 IDestinn/IDestinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
