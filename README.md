@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Destinn
-- 👀 I’m interested in Game Develeping
+- 👀 I’m interested in Game Developing
 - 🌱 I’m currently learning Python
 
 <!---
