@@ -23,7 +23,6 @@
 <img align="left" alt="Dart" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 <img align="left" alt="Docker" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
 <img align="left" alt="Flutter" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />       
-<img align="left" alt="C" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
 <img align="left" alt="Bash" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img align="left" alt="Bash" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   
