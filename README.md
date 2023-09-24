@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ilia "Destinn" Koltsov</h1>
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning **in colledge, learning everythink i intrested in**
-
+<h1 align="center">Hi 👋, I'm Ilia "Destinn" Koltsov</h1>\
 - 📫 How to reach me **tg:@IDestinn**
 
 <h3 align="left">Connect with me:</h3>
+- 👀 I’m interested in Data Science
+
+- 🌱 I’m currently learning **in colledge, learning everythink i intrested in**
 <p align="left">
 <a href="https://linkedin.com/in/илья-кольцов-96799b281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="илья-кольцов-96799b281" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/destinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="destinn" height="30" width="40" /></a>
