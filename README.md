@@ -1,4 +1,4 @@
-# Ilia "Destinn" Koltsov
+# Ilya "Destinn" Koltsov
 
 - 🌱 I’m currently learning **in colledge, learning everythink i intrested in**
 
